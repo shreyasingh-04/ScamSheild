@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScamShield AI</string>
+    <string name="analyze_hint">Paste suspicious message here…</string>
+    <string name="btn_analyze">Analyze Now</string>
+    <string name="scam_detected">Scam Detected</string>
+    <string name="safe_content">Content Appears Safe</string>
+</resources>
